@@ -40,3 +40,5 @@ doc/tags
 
 # for vim
 *.swp
+# ignore commit message
+.gitcommit
